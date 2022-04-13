@@ -1,0 +1,14 @@
+body{
+	background-image: url("p.webp");
+	background-size: 1566px 1000px;
+	background-repeat: no-repeat;
+}
+button{
+	width: 90%;
+	font-size: 30px;
+	padding: 15px;
+	color: white;
+	border-radius: 8px;
+	margin: 5px;
+	background-color: #5D4037;
+}

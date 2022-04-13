@@ -1,0 +1,15 @@
+body{
+	background-image:url("me2.jpg"),url("h.jpg");
+	background-repeat: no-repeat;
+	background-size:300px 300px, 1566px 1000px;
+	background-position: 0px 150px,0% 0%;
+}
+button{
+	width: 90%;
+	font-size: 30px;
+	padding: 15px;
+	color: white;
+	border-radius: 8px;
+	margin: 5px;
+	background-color: #5D4037;
+}
